@@ -8,4 +8,4 @@ Zaman içinde kendim için hazırladığım ve insanlara faydalı olacağını d
 
 Listeler belli aralıklarla güncellenecektir.
 
-* [İzlenmesi Gereken Videolar Listesi](#)
+* [İzlenmesi Gereken Videolar Listesi](/izlenmesi-gereken-videolar-listesi)
