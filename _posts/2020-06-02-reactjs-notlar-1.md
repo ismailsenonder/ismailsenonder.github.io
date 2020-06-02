@@ -1,12 +1,12 @@
----
+ï»¿---
 layout: post
-title: ReactJS Notlarım - I
+title: ReactJS NotlarÄ±m - I
 ---
 
-Bu yazı serisinde, kendim ReactJS öğrenirken aldığım notları paylaşacağım. Öncelikle bir kaç noktaya parmak atmak gerekiyor :)
+Bu yazÄ± serisinde, kendim ReactJS Ã¶ÄŸrenirken aldÄ±ÄŸÄ±m notlarÄ± paylaÅŸacaÄŸÄ±m. Ã–ncelikle bir kaÃ§ noktaya parmak atmak gerekiyor :)
 
-* [ReactJS'in resmi sitesinde](https://reactjs.org/) çok detaylı anlatımlar ve dokümantasyon var. Türkçe dil desteği de mevcut. Resmi siteden de burada yazacaklarımı takip edebilirsiniz.
+* [ReactJS'in resmi sitesinde](https://reactjs.org/) Ã§ok detaylÄ± anlatÄ±mlar ve dokÃ¼mantasyon var. TÃ¼rkÃ§e dil desteÄŸi de mevcut. Resmi siteden de burada yazacaklarÄ±mÄ± takip edebilirsiniz.
 
-* ReactJS öğrenmek için öncelikle HTML ve Javascript'i başlangıç seviyesinde de olsa bilmek, daha önce haşır neşir olmuş olmak gerekiyor. CSS de bilmek iyi olur. Zaten HTML bilen kişi CSS de biliyordur :)
-
-O halde başlayalım...
+* ReactJS Ã¶ÄŸrenmek iÃ§in Ã¶ncelikle HTML ve Javascript'i baÅŸlangÄ±Ã§ seviyesinde de olsa bilmek, daha Ã¶nce haÅŸÄ±r neÅŸir olmuÅŸ olmak gerekiyor. CSS de bilmek iyi olur. Zaten HTML bilen kiÅŸi CSS de biliyordur :)
+ 
+O halde baÅŸlayalÄ±m...

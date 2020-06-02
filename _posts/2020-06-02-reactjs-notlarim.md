@@ -1,6 +1,8 @@
----
+﻿---
 layout: post
-title: ReactJS Notlar�m
+title: ReactJS Notlarım
 ---
 
 [<img src="{{ site.baseurl }}/images/reactjslogo.png" alt="ReactJS Logo" style="width: 100%;"/>]({{ site.baseurl }}/)
+
+* [ReactJS Notlarım - I](/reactjs-notlar-1)

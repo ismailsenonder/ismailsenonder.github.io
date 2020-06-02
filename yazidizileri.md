@@ -1,9 +1,9 @@
----
+ï»¿---
 layout: page
-title: Yazı Dizileri
+title: YazÄ± Dizileri
 permalink: /yazi-dizileri/
 ---
 
-Burada tek bir yazıdan oluşmayan, seri şeklinde aldığım notlarımı tek bir başlıkta topladığım sayfaları yazacağım ki, hem kendim için hem de ziyaretçiler için gezinti kolay olsun.
+Burada tek bir yazÄ±dan oluÅŸmayan, seri ÅŸeklinde aldÄ±ÄŸÄ±m notlarÄ±mÄ± tek bir baÅŸlÄ±kta topladÄ±ÄŸÄ±m sayfalarÄ± yazacaÄŸÄ±m ki, hem kendim iÃ§in hem de ziyaretÃ§iler iÃ§in gezinti kolay olsun.
 
-* [ReactJS Notlarım](/reactjs-notlarim)
+* [ReactJS NotlarÄ±m](/reactjs-notlarim) 
