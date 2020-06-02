@@ -9,3 +9,5 @@ Not: Videoların bazıları İngilizce, bazıları Türkçe'dir.  Her bir yazı 
 * [Josh Kaufman - The First 20 Hours - How to Learn Anything](https://www.youtube.com/watch?v=5MgBikgcWnY){:target="_blank"} : Yeni bir şeyler öğrenmek istediğimizde bu hedef için harcayacağımız ilk 20 saatin ne kadar önemli olduğunu anlatan bir TED konuşması. (Dil: İngilizce, Altyazı: Türkçe mevcut)
 
 * [Mark Rober - The Super Mario Effect - Tricking Your Brain into Learning More](https://www.youtube.com/watch?v=9vJRopau0g0){:target="_blank"} : Yine öğrenme konulu bir video. Daha kolay ve daha fazla öğrenmek için beynimizi yönlendirme konusunda değişik bir yaklaşım sunuyor. (Dil: İngilizce, Altyazı: Türkçe mevcut değil)
+
+* [Haluk Tatar - Hayat Nasıl Kaliteli Yaşanır](https://www.youtube.com/watch?v=MmHeE34FOd4){:target="_blank"} : Haluk Tatar'dan kaliteli yaşama dair sohbet tadında bir video. (Dil: Türkçe)
