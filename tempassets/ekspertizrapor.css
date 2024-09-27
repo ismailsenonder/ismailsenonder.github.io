@@ -1,0 +1,137 @@
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Regular.woff2') format('woff2'), url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Bold.woff2') format('woff2'), url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Medium.woff2') format('woff2'), url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-ExtraBold.woff2') format('woff2'), url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNowDisplay';
+    src: url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Black.woff2') format('woff2'), url('https://ismailsenonder.github.io/tempassets/HelveticaNowDisplay-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Set A4 size */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@page {
+    size: A4;
+    margin: 0;
+}
+
+/* Set content to fill the entire A4 page */
+@media print {
+    body {
+        width: 210mm;
+        height: 297mm;
+    }
+}
+
+html,
+body {
+    width: 210mm;
+    height: 297mm;
+    font-family: "HelveticaNowDisplay", Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("https://ismailsenonder.github.io/tempassets/antetli_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    padding: 50px;
+    position: relative;
+    height: 100%;
+}
+
+.baslik {
+    margin-top: 30px;
+    background-color: #FECA21;
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
+    font-weight: bold;
+}
+
+.anametin {
+    margin-top: 20px;
+    padding: 0 !important;
+}
+
+    .anametin p {
+        font-size: 7pt;
+    }
+
+
+
+.sayfano {
+    position: absolute;
+    bottom: 20px;
+    font-size: 9pt;
+    width: 90%;
+    text-align: right;
+}
+
+/* footer bölümü */
+.footer {
+    position: absolute;
+    bottom: 100px;
+    font-size: 9pt;
+    width: 90%;
+}
+
+.footer75 {
+    position: absolute;
+    bottom: 75px;
+    font-size: 9pt;
+    width: 90%;
+}
+
+/* imza bölümü */
+.imzaatacak span {
+    padding-left: 5px;
+}
+
+.imza {
+    font-weight: bold;
+}
+
+    .imza::after {
+        width: 97%;
+        border-bottom: 3px solid #000000;
+        content: "";
+        height: 3px;
+        display: block;
+    }
+
+    .imza span {
+        padding: 5px;
+        line-height: 2em;
+    }
