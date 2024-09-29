@@ -90,14 +90,114 @@ body {
         font-size: 7pt;
     }
 
+.bilgilertable {
+    width: 100%;
+    font-family: "HelveticaNowDisplay", Helvetica, sans-serif;
+    table-layout: fixed;
+}
 
+    .bilgilertable tbody td {
+        padding: 4px 0px 4px 12px;
+        font-size: 10pt;
+    }
+
+    .bilgilertable tr.arkasigri td {
+        background-color: rgba(244, 244, 244, 0.7);
+    }
+
+    .bilgilertable tr td:first-child {
+        font-weight: bold;
+    }
+
+.ekspertizbilgileritable {
+    width: 100%;
+    font-family: "HelveticaNowDisplay", Helvetica, sans-serif;
+    table-layout: fixed;
+    font-size: 8pt;
+}
+
+    .ekspertizbilgileritable tr td:first-child {
+        font-weight: bold;
+        width: 25%;
+        padding-left: 10px;
+    }
+
+.musteribilgileritable {
+    width: 100%;
+    font-family: "HelveticaNowDisplay", Helvetica, sans-serif;
+    table-layout: fixed;
+    font-size: 8pt;
+    border-right: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+}
+
+    .musteribilgileritable tr td {
+        padding: 5px 5px 5px 15px;
+    }
+
+    .musteribilgileritable tr td:first-child {
+        font-weight: bold;
+        width: 40%;
+    }
+
+.baslik-noborder {
+    background-color: #FECA21;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.suslubaslik {
+    border-top: 2px solid #000000;
+    border-right: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 15px;
+}
+
+.suslubilgikutusu {
+    padding: 15px 0px 15px 0px;
+    border-right: 2px solid #000000;
+    border-left: 2px solid #000000;
+}
+
+.suslubilgikutusubottom {
+    border-bottom: 2px solid #000000;
+}
+
+.aracgorsel {
+    border-radius: 5px;
+    width: 100%;
+    border: 2px solid #EDEDED;
+    padding: 3px 0px 3px 0px;
+}
+
+.markamodelplaka {
+    text-align: center;
+    font-size: 9pt;
+    margin-top: 5px;
+}
+
+.aracgorselkutusu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+    .aracgorselkutusu img {
+        flex-shrink: 0;
+        min-width: 100%;
+        min-height: 100%
+    }
 
 .sayfano {
     position: absolute;
     bottom: 20px;
     font-size: 9pt;
     width: 90%;
-    text-align: right;
+    text-align: center;
 }
 
 /* footer bölümü */
