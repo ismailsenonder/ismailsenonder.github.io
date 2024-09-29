@@ -141,6 +141,40 @@ body {
         width: 40%;
     }
 
+.kontrolnoktalaritable {
+    width: 100%;
+    font-family: "HelveticaNowDisplay", Helvetica, sans-serif;
+    table-layout: fixed;
+}
+
+    .kontrolnoktalaritable thead th {
+        background-color: #F4F4F4;
+        padding: 4px 0px 4px 12px;
+        border-bottom: 3px solid #000000;
+        font-size: 11pt;
+    }
+
+    .kontrolnoktalaritable tbody td {
+        padding: 4px 0px 4px 12px;
+        font-size: 10pt;
+    }
+
+    .kontrolnoktalaritable tr.arkasigri td {
+        background-color: rgba(244, 244, 244, 0.5);
+    }
+
+    .kontrolnoktalaritable tr.arkasibeyaz td {
+        background-color: rgba(255, 255, 255, 0.5);
+    }
+
+    .kontrolnoktalaritable tr td:first-child, .kontrolnoktalaritable tr td:nth-child(2) {
+        font-weight: bold;
+    }
+
+    .kontrolnoktalaritable tr td:nth-child(2), .kontrolnoktalaritable tr td:nth-child(3) {
+        font-size: 9pt !important;
+    }
+
 .baslik-noborder {
     background-color: #FECA21;
     font-weight: bold;
@@ -191,6 +225,13 @@ body {
         min-width: 100%;
         min-height: 100%
     }
+
+.durumikonu {
+    position: relative;
+    width: 20px;
+    top: -3px;
+    margin-right: 3px;
+}
 
 .sayfano {
     position: absolute;
