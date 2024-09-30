@@ -233,6 +233,20 @@ body {
     margin-right: 3px;
 }
 
+.notlaryarim {
+    margin-top: 10px;
+    background-color: #F4F4F4;
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+
+.notsatiri {
+    border-bottom: 3px solid #F4F4F4;
+    height: 25px;
+}
+
 .sayfano {
     position: absolute;
     bottom: 20px;
