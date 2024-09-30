@@ -258,16 +258,20 @@ body {
 /* footer bölümü */
 .footer {
     position: absolute;
-    bottom: 100px;
     font-size: 9pt;
     width: 90%;
 }
 
+.footer100 {
+    bottom: 100px;
+}
+
 .footer75 {
-    position: absolute;
     bottom: 75px;
-    font-size: 9pt;
-    width: 90%;
+}
+
+.footer50 {
+    bottom: 50px;
 }
 
 /* imza bölümü */
