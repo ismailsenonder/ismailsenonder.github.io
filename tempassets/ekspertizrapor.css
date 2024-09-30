@@ -113,7 +113,7 @@ body {
 }
 
     .bilgilertable tbody td {
-        padding: 4px 0px 4px 12px;
+        padding: 2px 0px 2px 10px;
         font-size: 10pt;
     }
 
@@ -165,13 +165,13 @@ body {
 
     .kontrolnoktalaritable thead th {
         background-color: #F4F4F4;
-        padding: 4px 0px 4px 12px;
+        padding: 2px 0px 2px 10px;
         border-bottom: 3px solid #000000;
-        font-size: 11pt;
+        font-size: 10pt;
     }
 
     .kontrolnoktalaritable tbody td {
-        padding: 4px 0px 4px 12px;
+        padding: 2px 0px 2px 10px;
         font-size: 10pt;
     }
 
