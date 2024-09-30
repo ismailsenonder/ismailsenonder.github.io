@@ -191,6 +191,12 @@ body {
         font-size: 9pt !important;
     }
 
+.kontrolnoktalariwrapper {
+    padding: 0px !important; 
+    border-top: 3px solid #000000; 
+    margin-top: 15px;
+}
+
 .baslik-noborder {
     background-color: #FECA21;
     font-weight: bold;
