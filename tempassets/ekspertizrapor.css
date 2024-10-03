@@ -248,12 +248,17 @@ body {
         min-height: 100%
     }
 
-.obdfoto {
+.teklifoto {
     border: 5px solid #EDEDED;
     width: 350px;
 }
 
 .obdfotodiv {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.contafotodiv {
     padding-top: 30px;
     text-align: center;
 }
