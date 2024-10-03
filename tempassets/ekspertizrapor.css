@@ -248,6 +248,16 @@ body {
         min-height: 100%
     }
 
+.obdfoto {
+    border: 5px solid #EDEDED;
+    width: 350px;
+}
+
+.obdfotodiv {
+    padding-top: 30px;
+    text-align: center;
+}
+
 .durumikonu {
     position: relative;
     width: 15px;
