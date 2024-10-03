@@ -268,6 +268,9 @@ body {
 .notsatiri {
     border-bottom: 3px solid #F4F4F4;
     height: 25px;
+    font-size: 9pt;
+    font-weight: bold;
+    padding-top: 5px;
 }
 
 .motorgucudiv {
