@@ -254,8 +254,20 @@ body {
 }
 
 .obdfotodiv {
-    padding-top: 30px;
+    margin-top: 25px;
     text-align: center;
+}
+
+.obdfotocontainer {
+    width:400px; 
+    height: 300px; 
+    border: 4px solid #EDEDED;
+}
+
+.obdfotogorsel {
+    width:100%; 
+    height: 100%; 
+    object-fit: scale-down;
 }
 
 .contafotodiv {
