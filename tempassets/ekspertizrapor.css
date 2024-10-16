@@ -106,6 +106,10 @@ body {
         font-size: 7pt;
     }
 
+.garantimetni p {
+    font-size: 7pt;
+}
+
 .bilgilertable {
     width: 100%;
     font-family: "HelveticaNowDisplay", Helvetica, sans-serif;
