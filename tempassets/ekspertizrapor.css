@@ -170,10 +170,6 @@ body {
         font-size: 10pt;
     }
 
-    .kontrolnoktalaritable thead th .ustborder {
-        border-top: 3px solid #000000;
-    }
-
     .kontrolnoktalaritable tbody td {
         padding: 2px 0px 2px 10px;
         font-size: 10pt;
@@ -292,6 +288,10 @@ body {
     width: 15px;
     top: -3px;
     margin-right: 3px;
+}
+
+.tablebaslikustborder {
+    border-top: 3px solid #000000;
 }
 
 .notlar {
