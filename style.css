@@ -1,0 +1,52 @@
+:root {
+    --bg-color: #f9f9f9;
+    --text-color: #333;
+    --link-color: #333;
+    --footer-color: #888;
+}
+
+[data-theme='dark'] {
+    --bg-color: #1e1e1e;
+    --text-color: #eee;
+    --link-color: #ddd;
+    --footer-color: #666;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    padding-top: 4rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav {
+    margin-bottom: 2rem;
+}
+
+.nav-link {
+    color: var(--link-color) !important;
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
+footer {
+    margin-top: 3rem;
+    font-size: 0.875rem;
+    color: var(--footer-color);
+}
+
+.header-image {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
